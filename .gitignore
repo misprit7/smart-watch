@@ -12,6 +12,7 @@ __Previews
 *.LOG
 *.log
 *.htm
+*.html
 *.$$$
 
 #useless dirs
