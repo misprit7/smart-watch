@@ -1,3 +1,5 @@
+.DS_Store
+
 # Various Altium files
 *.PrjPCBStructure
 *.SchDocPreview
