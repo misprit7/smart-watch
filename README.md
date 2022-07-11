@@ -8,5 +8,5 @@ Things to ask Arrsh/Pablo about:
 3. (To Arrsh): How does usb work? 
 4. Are pullups/series resistors on SD lines necessary? I don't think so since rocket didn't need them
 5. Is it fine to leave boot config pins floating? (data sheet says they have an internal pulldown on reboot)
-6. 
+6. What's with the inductors being labelled with resistances @ frequency? I assume these are signal integrity or power stability, are they required? 
 
