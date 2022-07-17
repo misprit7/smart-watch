@@ -1,0 +1,7 @@
+{
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "*.c": "c",
+        "initializer_list": "c"
+    }
+}
