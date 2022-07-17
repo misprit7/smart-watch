@@ -16,6 +16,7 @@ Things to ask Arrsh/Pablo about:
 5. Is it fine to leave boot config pins floating? (data sheet says they have an internal pulldown on reboot)
 6. What's with the inductors being labelled with resistances @ frequency? I assume these are signal integrity or power stability, are they required? 
 7. Am I correct about _t being positive and _c being negative? 
+8. What are all of the CAP pins for and are they required? 
 
 Manufacturing Questions: 
 1. Will JLCPCB be able to do 0.4mm BGA components? I'm fine paying extra
