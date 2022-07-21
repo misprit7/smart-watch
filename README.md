@@ -10,7 +10,12 @@ Planning on using this battery, have ordered 3 of them: https://www.adafruit.com
 
 Things to ask Arrsh/Pablo about: 
 1. Does my diode based power selection actually work? 
+- Might work, might want to add another diode
+- Make sure input voltage is fine for pmic
+- Protection for battery
 2. Which of the capacitors are actually necessary? Definitely don't have room for them all
+- Try to include as many as possible
+- Maybe dev board? 
 3. (To Arrsh): How does usb work? 
 4. Are pullups/series resistors on SD lines necessary? I don't think so since rocket didn't need them
 5. Is it fine to leave boot config pins floating? (data sheet says they have an internal pulldown on reboot)
